@@ -36,7 +36,7 @@ https://github.com/user-attachments/assets/06b3d0a7-e301-4e5c-8e90-b7894551da09
 
 
 
-#### Explore the application post on LinkedIn: <a target="_blank" href="*************"> Click Here. </a>
+#### Explore the application post on LinkedIn: <a target="_blank" href="https://www.linkedin.com/posts/theahmedhany_ailo-aichatapp-flutter-activity-7284824554496024577-wfrn?utm_source=share&utm_medium=member_desktop"> Click Here. </a>
 
 -----
 
